@@ -14,3 +14,7 @@ Note：
 6, jhmdb-21和ucf-24数据集标签都是从1开始的，如果你的自建数据集从0开始，请注释掉
 utils/clip.py中的第20行以及test.py的104行。
 
+7, 检测效果图
+![result](https://github.com/jinsheng124/action-detection/blob/main/logs/results/jhmdb-21.png)
+![result](https://github.com/jinsheng124/action-detection/blob/main/logs/results/ucf-24.png)
+
