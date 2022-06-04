@@ -1,4 +1,4 @@
-#**This is an improved network of Spatio-temporal Action Location based on YOWO(基于YOWO改进的时空动作定位网络)**
+#**This is an improved network of Spatio-temporal Action Location based on YOWO**
 
 Note： 
 
