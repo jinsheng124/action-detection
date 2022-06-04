@@ -4,7 +4,7 @@ Note：
 
 1, train.py中的K_sample = 0 和 K_sample=1的正负样本分配策略差别很大,训练、测试和预测时此参数要保持一致。
 
-2,  [[3D预训练权重下载]](https://github.com/okankop/Efficient-3DCNNs)
+2,  [[3D预训练权重下载]](https://github.com/okankop/Efficient-3DCNNs)[[2D预训练权重]](https://pan.baidu.com/s/1xxLpdcEQPbZTmrViL8xLtQ)(验证码:w6ch)
 
 4, model_data文件夹下的jhmdb_21_anchors.txt和ucf_24_anchors.txt(先验框)
 最好用kmeans_for_anchors.py生成
