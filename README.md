@@ -1,5 +1,7 @@
 #**This is an improved network of Spatio-temporal Action Location based on YOWO(基于YOWO改进的时空动作定位网络)**
+
 Note： 
+
 1, train.py中的K_sample = 0 和 K_sample=1的正负样本分配策略差别很大,训练、测试和预测时此参数要保持一致。
 
 2,  [[3D预训练权重下载]](https://github.com/okankop/Efficient-3DCNNs)
