@@ -15,6 +15,7 @@ Note：
 utils/clip.py中的第20行以及test.py的104行。
 
 7, 检测效果图
+
 ![result](https://github.com/jinsheng124/action-detection/blob/main/logs/results/jhmdb-21.png)
 ![result](https://github.com/jinsheng124/action-detection/blob/main/logs/results/ucf-24.png)
 
